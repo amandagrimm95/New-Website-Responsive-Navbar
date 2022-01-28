@@ -1,0 +1,32 @@
+/*Universal Styling*/
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+
+/*Nav Bar Styling*/
+@media only screen and (max-width: 768px) {
+    nav .icon {
+        display: block;
+        margin: 0 30px;
+    }
+    nav #navLinks {
+        display: none;
+    }
+    nav #navLinks.show{
+        display:block;
+    }
+}
+
+
+/*Anchor Offset*/
+
+
+/*Header Styling*/
+
+
+/*Article Styling*/
+
+
+/*Footer Styling*/
